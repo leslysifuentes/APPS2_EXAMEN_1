@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EXA_1_TABULADOR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_shuttle">The Space Shuttle was a partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was Space Transportation System (STS), taken from a 1969 plan for a system of reusable spacecraft where it was the only item funded for development.The first of four orbital test flights occurred in 1981, leading to operational flights beginning in 1982. </string>
+    <string name="texto_ares">The Ares V was to launch the Earth Departure Stage and Altair lunar lander for NASA return to the Moon, which was planned for 2019. It would also have served as the principal launcher for missions beyond the Earth-Moon system, including the programs ultimate goal, a crewed mission to Mars. The uncrewed Ares V would complement the smaller, and human-rated Ares I rocket for the launching of the 4–6 person Orion spacecraft. Both rockets, deemed safer than the then-current Space Shuttle.</string>
+    <string name="texto_falcon">Falcon 9 is a partially reusable two-stage-to-orbit medium-lift launch vehicle designed and manufactured by SpaceX in the United States. It is powered by Merlin engines, also developed by SpaceX, burning cryogenic liquid oxygen and rocket-grade kerosene (RP-1) as propellants. Its name is derived from the fictional Star Wars spacecraft, the Millennium Falcon, and the nine Merlin engines of the rockets first stage.</string>
+
+
+
+</resources>
