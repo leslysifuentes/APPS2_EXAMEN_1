@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="&quot;No soy un humano. Soy un robot. Un robot pensante&quot;, así inicia el artículo de opinión que se escribió con inteligencia artificial (IA) para el diario británico 'The Guardian'.     ​Para hacerlo se uso el GPT-3, un modelo de lenguaje de IA creado por la empresa estadounidense Open AI al que se le pidió que, en su texto, intentará convencer a los lectores de que los robots &quot;vienen en paz&quot;. Según explicó 'The Guardian', para que GPT-3 tuviera un punto de partida se le aportó una breve introducción que incluyó la advertencia que hizo el físico Stephen Hawking en 2014: &quot;La IA augura el fin de la raza humana&quot;.Usando esos parámetros se obtuvieron varios escritos que, con el fin de facilitar la lectura,  fueron editados en uno solo, dejando solamente los apartados más interesantes. El resultado final es un texto de 17 párrafos con 'apreciaciones' sorprendentes. En las primeras líneas, la IA intenta refutar la frase de Hawking diciendo que &quot;(incluso) si mis creadores me pidieran (erradicar a los humanos) intentaría oponerme&quot;.   " />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
